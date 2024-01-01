@@ -1,0 +1,10 @@
+Instalar joy ui:
+    - npm install @mui/joy @emotion/react @emotion/styled
+    Instalar fontsource do joy ui: 
+        - npm install @fontsource/inter
+
+Instalar react-responsive para checar se é mobile ou desktop:
+    - npm install react-responsive
+
+Instalar react-icons:
+    - npm install @mui/icons-material @mui/material
