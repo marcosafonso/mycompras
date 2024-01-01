@@ -164,7 +164,7 @@ function App() {
                     <td>{item.descricaoItem}</td>
                     <td>{item.qtdItem}</td>
                     <td>{item.totalItem}</td>
-                    <td><Button onClick={()=> deletaItem(item.descricaoItem)}>Del</Button></td>
+                    <td><Button onClick={()=> deletaItem(item.descricaoItem)}>Delete</Button></td>
                   </tr>
                 ))
               )}
